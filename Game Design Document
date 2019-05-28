@@ -1,0 +1,31 @@
+● Basic Story
+ The story begins when the main protagonist wakes up during a bad thunder storm and relizes that their younger sibling is not in bed where they should be. The protagonist sees a set of wet foot prints leading out of the house and down into the large mansions basement. The protagonist gathers a flashlight and sets off into the maze of old tunnels that lay beneath the house. During the search they encounter a large animal that seems to be stalking them through the maze of tunnels. The beast seems to be afraid of the light, but the flashlight keeps going out and requires constant shaking to restore the light. The protagonist rushes through the tunnels in an attempt to find their sibling before being caught by the beast. 
+
+● Game play
+■ Basic directional movement through the maze camera viewed from over the protagonist's shoulder with only the beam of the flashlight illuminating the maze. 
+
+■ Movement W,S keys to move forward and backward in the maze. A,D keys will rotate the character. 
+
+■ Spacebar key will shake the flashlight causing it to come back on for a random amount of time 
+
+■ Attack: Pointing the flashlight in the direction of the beast will cause it to flee for a short time. 
+
+■ Power ups available in the form of an old ball that the beast will chase to distract it for a short time. 
+
+■ Enemies: Single unidentified beast that is tracking the character through the maze. 
+
+■ No save points being attacked by the beast results in a game over and restarts at the begining of the maze. 
+
+● Space
+ The entire game takes place in the maze of tunnels underneath the house. 
+ 
+● Goals
+ The goal of the game is to make it to the center of the maze and find your lost sibling. 
+ 
+○ Losing condition: player is corned by the beast with no working flashlight or ball to throw. 
+  player respawns at entrance after lose scenario
+  
+● Actors
+  Protagonist: teen looking for their lost sibling due to concern for their safety. 
+  Sibling: preteen presumably lost in the maze of tunnels being hunted by the beast
+  Antagonist: Beast in the maze hunting the characters 
